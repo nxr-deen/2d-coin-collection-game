@@ -93,7 +93,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Built with [Pygame](https://www.pygame.org/)
 - Inspired by classic arcade games
-
-## 📞 Contact
-
-Project Link: [https://github.com/nxr-deen/2d-coin-collection-game](https://github.com/nxr-deen/2d-coin-collection-game)
+- Play online: https://replit.com/@NoureddineBoude/2d-coin-collection-game
