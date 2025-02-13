@@ -63,7 +63,7 @@ python src/main.py
 
 ## 📁 Project Structure
 ```
-game_project/
+2d-coin-collection-game/
 ├── assets/
 │   ├── images/
 │   └── sounds/
